@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "customerId": 1,
+    "milkTeaId": 1,
+    "quantity": 1
+  },
+  {
+    "id": 1,
+    "customerId": 2,
+    "milkTeaId": 1,
+    "quantity": 1
+  },
+  {
+    "id": 3,
+    "customerId": 3,
+    "milkTeaId": 1,
+    "quantity": 1
+  },
+  {
+    "id": 2,
+    "customerId": 3,
+    "milkTeaId": 2,
+    "quantity": 1
+  },
+  {
+    "id": 2,
+    "customerId": 1,
+    "milkTeaId": 2,
+    "quantity": 1
+  }
+]

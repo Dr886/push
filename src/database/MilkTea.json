@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Tra Sua Truyen Thong",
+    "price": 15000,
+    "categoryId": 1
+  },
+  {
+    "id": 2,
+    "name": "Tra Sua O Long dac biet",
+    "price": 30000,
+    "categoryId": 2
+  }
+]
