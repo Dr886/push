@@ -18,6 +18,8 @@ Hiển thị được log này là run OK:
 ## Cấu trúc folder
 ### Folder app:
 1. File main.java dùng để chạy App
+### Folder models:
+- Chứa các Enities cần thiết để sử dụng cho bài tập này
 ### Folder database:
 1. Chứa các file JSON fake data để sử dụng cho App
 ### Folder services:
@@ -28,3 +30,8 @@ Hiển thị được log này là run OK:
 1. CustomerController dùng để call các xử lý liên quan đến Customer
 2. MilkTeaController dùng để call các xử lý liên quan đến Milk Tea
 3. PaymentController dùng để call các xử lý liên quan đến Thanh Toán
+### Folder utilities:
+1. FileJsonReader dùng để thực hiện xử lý đọc file JSON
+2. FileJsonWriter dùng để thực hiện xử lý ghi file JSON
+### Folder lib:
+- Chứa các thư viện cần thiết để có thể thực hiện bài tập này
